@@ -25,8 +25,8 @@ I follow a structured **6-Stage Workflow** for every project to ensure consisten
 ---
 
 ## 📈 Roadmap & Progress
-- [x] **Phase 1: ML Foundations** (Scikit-Learn, Data Cleaning, Statistics)
-- [ ] **Phase 2: Deep Learning** (PyTorch, CNNs, Transformers) - *CURRENTLY HERE*
+- [x] **Phase 1: ML Foundations** (Scikit-Learn, Data Cleaning, Statistics) - *CURRENTLY HERE*
+- [ ] **Phase 2: Deep Learning** (PyTorch, CNNs, Transformers) 
 - [ ] **Phase 3: Generative AI & LLMs** (RAG, Fine-tuning, Vector DBs)
 - [ ] **Phase 4: MLOps & Deployment** (FastAPI, Docker, AWS)
 ---
